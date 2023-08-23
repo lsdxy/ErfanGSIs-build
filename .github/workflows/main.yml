@@ -13,7 +13,7 @@ on:
   workflow_dispatch
     
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/lenovo/Tab_P12_2023/TB370FU/TB370FU_ROW_OPEN_USER_tb-V14.218.2_T_ZUI_15.0.032_ST_230616.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/tangorpro-td2a.230203.028-factory-55b7fab7.zip?hl=zh-cn
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
